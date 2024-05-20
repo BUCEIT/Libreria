@@ -1,0 +1,26 @@
+#nav{
+                background: url("../imagenes/Nav2.jpg");
+                background-size: cover;
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+                border-radius: 10px 10px 10px 10px;
+                -moz-border-radius: 10px 10px 10px 10px;
+                -webkit-border-radius: 10px 10px 10px 10px;
+                border: 0px solid #000000;
+            }
+            .li{
+                display: inline-block;
+                text-align: center;
+                width: 18%;
+                padding: 2%;
+                list-style-type: none;
+                font-family: 'Michroma', sans-serif !important;
+                font-size: 2em !important;
+                color: white !important;
+                font-weight: bold;
+            }
+            .a{
+                text-decoration: none;
+                color: white !important;
+            }

@@ -1,0 +1,21 @@
+footer{
+                padding-bottom: 3% !important;
+                padding-top: 2% !important;
+                margin-top: 2% !important;
+                background: url("../imagenes/fondo-footer.jpg");
+                background-size: cover;
+                background-attachment: fixed;
+                background-position: center;
+                background-repeat: no-repeat;
+            }
+            footer img, footer h5{
+                display: inline-block !important;
+            }
+            footer h5{
+                font-family: 'Michroma', sans-serif !important;
+                font-size: 2em !important;
+            }
+            footer img:hover{
+                cursor: pointer;
+                transform: scale(1.2);
+            }

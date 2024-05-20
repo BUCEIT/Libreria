@@ -1,0 +1,19 @@
+h2{
+                font-family: 'Michroma', sans-serif !important;
+                font-weight: bold !important;
+                margin-bottom: 2%;
+                margin-top: 2%;
+            }
+            label,p{
+                font-family: 'Walter Turncoat', cursive !important;
+                font-size: 1.5em !important;
+            }
+            button{
+                padding: 1% !important;
+                font-weight: bold !important;
+                font-family: 'Michroma', sans-serif !important;
+                -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+            }

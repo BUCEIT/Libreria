@@ -1,0 +1,32 @@
+#navaltas li{
+                font-size: 2em;
+                font-family: 'Michroma', sans-serif;
+            }
+            #centro{
+                display: block;
+                margin: auto;
+                width: 30%; 
+                padding: 2%;
+                background: rgba(241,231,103,1);
+                background: -moz-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,0.3) 100%);
+                background: -webkit-gradient(left top, right top, color-stop(0%, rgba(241,231,103,1)), color-stop(100%, rgba(254,182,69,0.3)));
+                background: -webkit-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,0.3) 100%);
+                background: -o-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,0.3) 100%);
+                background: -ms-linear-gradient(left, rgba(241,231,103,1) 0%, rgba(254,182,69,0.3) 100%);
+                background: linear-gradient(to right, rgba(241,231,103,1) 0%, rgba(254,182,69,0.3) 100%);
+                filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#feb645', GradientType=1 );
+                -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+                border-radius: 10px 10px 10px 10px;
+                -moz-border-radius: 10px 10px 10px 10px;
+                -webkit-border-radius: 10px 10px 10px 10px;
+                border: 0px solid #000000;
+            }
+            #centro h2{
+                font-family: 'Walter Turncoat', cursive !important;
+            }
+            #centro label{
+                font-family: 'Michroma', sans-serif !important;
+                font-weight: bold !important;
+            }
